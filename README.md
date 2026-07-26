@@ -48,4 +48,4 @@ Kaggle API: https://github.com/Kaggle/kaggle-api
 
 ### License
 This project is licensed under the MIT License. See the <a href="https://github.com/Divyam6969/Pneumonia-Detection-using-FastAI-/blob/main/LICENSE">LICENSE</a> file for details.
-
+
